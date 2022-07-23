@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mushy Cheat", "Mushy Cheat\Mushy Cheat.csproj", "{28530874-8CD3-4906-B2D4-98A1F8BF4A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28530874-8CD3-4906-B2D4-98A1F8BF4A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28530874-8CD3-4906-B2D4-98A1F8BF4A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28530874-8CD3-4906-B2D4-98A1F8BF4A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28530874-8CD3-4906-B2D4-98A1F8BF4A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C20792FF-D91B-4015-AC07-2E7EF3A92D01}
+	EndGlobalSection
+EndGlobal
